@@ -202,7 +202,7 @@ pydantic==1.8.2
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1598885001695/work
 pyflakes==2.2.0
 Pygments @ file:///tmp/build/80754af9/pygments_1604103097372/work
-PyJWT==1.7.1
+PyJWT==2.4.0
 pylint @ file:///C:/ci/pylint_1598617153160/work
 PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
 pyodbc===4.0.0-unsupported
