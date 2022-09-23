@@ -191,7 +191,7 @@ preshed==3.0.6
 prettytable @ file:///home/conda/feedstock_root/build_artifacts/prettytable_1640038759586/work
 prometheus-client==0.8.0
 prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1602688806899/work
-protobuf==3.19.4
+protobuf==3.19.5
 psutil @ file:///C:/ci/psutil_1598370330503/work
 py @ file:///tmp/build/80754af9/py_1593446248552/work
 pycodestyle==2.6.0
