@@ -31,7 +31,7 @@ Bottleneck==1.3.2
 brotlipy==0.7.0
 bubbly==1.0.2
 catalogue==2.0.7
-certifi==2022.5.18.1
+certifi==2022.12.7
 cffi @ file:///C:/ci/cffi_1600699246375/work
 chardet==3.0.4
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1644853463426/work
